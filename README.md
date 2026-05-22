@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Linux+System+Engineer;DevOps+Advocate;Homelab+Enthusiast" alt="Typing SVG" />
   </a>
   
-  <p><i>"Currently working 16-hour shifts to not get replaced by robots 🤖"</i></p>
+  <p><i>“Working 16-hour shifts trying not to get replaced by robots 🤖”</i></p>
 </div>
 
 ---
