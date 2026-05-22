@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Welcome Traveler ⚡, I'm Max!</h1>
-  <h3>Senior Linux System Engineer | DevOps Advocate | Homelab Enthusiast</h3>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Linux+System+Engineer;DevOps+Advocate;Homelab+Enthusiast" alt="Typing SVG" />
+  </a>
+  
   <p><i>"Currently working 16-hour shifts to not get replaced by robots 🤖"</i></p>
 </div>
 
@@ -8,18 +12,16 @@
 
 ## 👨‍💻 About Me
 
-With over a decade of experience deep in the Linux ecosystem, I specialize in building, scaling, and automating resilient infrastructure. I believe in bridging the gap between operations and development to make deployments secure and seamless. 
+I've spent the last 10+ years deep in the Linux ecosystem, making sure servers don't catch on fire. My day job is all about building, scaling, and automating infrastructure so deployments just *work*. 
 
-* 🐧 **Day Job:** Architecting robust systems, managing cloud infrastructure, and writing heavy-duty automation.
-* 🏠 **After Hours:** Expanding my personal homelab, tinkering with self-hosted services, and engineering the ultimate smarthome setup.
-* 🌱 **Always Learning:** Exploring new ways to make bare-metal and containerized environments run faster and smarter.
+When I'm off the clock, I'm usually tearing down and rebuilding my homelab, self-hosting everything I can, or over-engineering my smarthome setup.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🐧 DevOps, Linux & Infrastructure
-<p align="left">
+<p align="center">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="42" height="42"/></a>
@@ -29,7 +31,7 @@ With over a decade of experience deep in the Linux ecosystem, I specialize in bu
 </p>
 
 ### ☁️ Databases & Cloud
-<p align="left">
+<p align="center">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="42" height="42"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/></a>
@@ -39,7 +41,7 @@ With over a decade of experience deep in the Linux ecosystem, I specialize in bu
 </p>
 
 ### 💻 Languages & Frameworks
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/></a>
@@ -52,13 +54,10 @@ With over a decade of experience deep in the Linux ecosystem, I specialize in bu
 
 ---
 
-## 🏆 Achievements & Stats
+## 🏆 Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phuturer&theme=radical&margin-w=15" alt="GitHub Trophies" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Phuturer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -66,5 +65,5 @@ With over a decade of experience deep in the Linux ecosystem, I specialize in bu
 ## ✉️ Let's Connect
 
 <p align="center">
-  <a href="mailto:max@runlevel.io"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="42" height="42"/></a>
+  <a href="mailto:max@runlevel.io"><img src="https://api.iconify.design/lucide:mail.svg?color=white" alt="Email" width="42" height="42"/></a>
 </p>
