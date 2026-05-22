@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phuturer&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -62,5 +54,5 @@
 ## ✉️ Let's Connect
 
 <p align="center">
-  <a href="mailto:max@runlevel.io"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="42" height="42"/></a>
+  <a href="mailto:max@runlevel.io"><img src="https://cdn.simpleicons.org/minutemailer/black" alt="Email" width="42" height="42"/></a>
 </p>
