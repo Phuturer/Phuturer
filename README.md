@@ -54,5 +54,5 @@
 ## ✉️ Let's Connect
 
 <p align="center">
-  <a href="mailto:max@runlevel.io"><img src="https://cdn.simpleicons.org/minutemailer/black" alt="Email" width="42" height="42"/></a>
+  <a href="mailto:max@runlevel.io"><img src="https://cdn.simpleicons.org/minutemailer/white" alt="Email" width="42" height="42"/></a>
 </p>
