@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I've spent the last 10+ years deep in the Linux ecosystem, making sure servers don't catch on fire. My day job is all about building, scaling, and automating infrastructure so deployments just *work*. 
+Hi, I'm Max. 👋🏼 For over a decade, I've been managing Linux infrastructure with a focus on building, scaling, and automating systems to ensure deployments run reliably.
 
 When I'm off the clock, I'm usually tearing down and rebuilding my homelab, self-hosting everything I can, or over-engineering my smarthome setup.
 
