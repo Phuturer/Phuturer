@@ -54,14 +54,6 @@ When I'm off the clock, I'm usually tearing down and rebuilding my homelab, self
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phuturer&theme=radical&margin-w=15" alt="GitHub Trophies" /></a>
-</p>
-
----
-
 ## ✉️ Let's Connect
 
 <p align="center">
