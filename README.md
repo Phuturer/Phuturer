@@ -1,20 +1,22 @@
 <div align="center">
-  <h1>Welcome Traveler ⚡, I'm Max!</h1>
+  <h1>Welcome Traveler, I'm Max!</h1>
   
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Linux+System+Engineer;DevOps+Advocate;Homelab+Enthusiast" alt="Typing SVG" />
   </a>
   
-  <p><i>“Working 16-hour shifts trying not to get replaced by robots 🤖”</i></p>
+  <p><i>“On 16-hour shifts trying not to get replaced by robots 🤖”</i></p>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm Max. 👋🏼 For over a decade, I've been managing Linux infrastructure with a focus on building, scaling, and automating systems to ensure deployments run reliably.
+Hi, I'm Max. 👋🏼
 
-When I'm off the clock, I'm usually tearing down and rebuilding my homelab, self-hosting everything I can, or over-engineering my smarthome setup.
+I build, automate and maintain IT infrastructure. With over a decade of experience in Linux environments, I focus on building resilient systems that — ideally — run themselves.
+
+Off the clock, you'll find me experimenting with local AI, automating things that don't need automating, or breaking stuff in my homelab.
 
 ---
 
