@@ -87,9 +87,6 @@ If I have to do it twice, it becomes a script. Three times, it becomes a pipelin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phuturer&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuturer&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6" alt="top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=Phuturer&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="streak"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phuturer&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="activity graph"/>
